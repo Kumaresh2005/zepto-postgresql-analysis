@@ -1,8 +1,9 @@
 # Zepto Product & Inventory Analysis using PostgreSQL
 
 <p align="center">
-  <img src="<img width="1536" height="1024" alt="intro_zepto" src="https://github.com/user-attachments/assets/57988223-7ffd-4a29-8e5c-8d830397c964" />
-" width="900" alt="Power BI Dashboard"/>
+  <img src="zepto-postgresql-analysis/screenshots
+/intro_zepto.png
+"/>
 </p>
 
 <p align="center">
