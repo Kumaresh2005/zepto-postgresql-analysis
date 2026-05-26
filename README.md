@@ -1,12 +1,11 @@
 # Zepto Product & Inventory Analysis using PostgreSQL
 
 <p align="center">
-  <img src="intro_zepto.png"/>
+  <img src="screenshots/intro_zepto.png" width="1000" alt="Project Overview"/>
 </p>
 
 <p align="center">
-  <img src="<img width="1919" height="1022" alt="Screenshot 2026-05-26 171716" src="https://github.com/user-attachments/assets/25cafbc2-8910-4684-a74a-e36bafc24624" />
-" width="900" alt="SQL Query Output"/>
+  <img src="screenshots/Screenshot%202026-05-26%20171625.png" width="1000" alt="SQL Query Output"/>
 </p>
 
 ---
@@ -61,6 +60,7 @@ The dataset contains Zepto product and inventory details including:
 - Quantity
 
 Dataset File:
+
 ```text
 zepto_v2.csv
 ```
@@ -121,8 +121,10 @@ zepto-postgresql-analysis/
 │   ├── advanced_queries.sql
 │
 ├── screenshots/
-│   ├── dashboard.png
-│   ├── query_output.png
+│   ├── intro_zepto.png
+│   ├── Screenshot 2026-05-26 171625.png
+│   ├── Screenshot 2026-05-26 171716.png
+│   ├── Screenshot 2026-05-26 171839.png
 │
 ├── powerbi_dashboard/
 │   └── zepto_dashboard.pbix
@@ -184,17 +186,23 @@ WHERE z.discountedSellingPrice > cs.avg_price;
 
 ### Dashboard Preview
 
-(Add your dashboard screenshot here)
+<p align="center">
+  <img src="screenshots/intro_zepto.png" width="1000"/>
+</p>
+
+---
 
 ### SQL Query Output
 
-(Add your PostgreSQL query screenshot here)
+<p align="center">
+  <img src="screenshots/Screenshot%202026-05-26%20171625.png" width="1000"/>
+</p>
 
 ---
 
 ## Author
 
-### Kumaresh Biswas
+# Kumaresh Biswas
 
 Aspiring Data Analyst passionate about:
 - PostgreSQL
