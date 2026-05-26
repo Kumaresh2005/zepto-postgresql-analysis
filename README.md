@@ -1,9 +1,7 @@
 # Zepto Product & Inventory Analysis using PostgreSQL
 
 <p align="center">
-  <img src="zepto-postgresql-analysis/screenshots
-/intro_zepto.png
-"/>
+  <img src="intro_zepto.png"/>
 </p>
 
 <p align="center">
